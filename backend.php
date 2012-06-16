@@ -71,7 +71,9 @@ class ArduinoConnector {
   protected static function send_value( ArduinoConnector $arduino, $pin ) {
     $value = $arduino->pin[$pin];
     $device = $arduino->device;
-    exec('echo ' . $value . ' > ' . $device);
+    $output = array();
+    $status = 0;
+    exec('echo ' . $value . ' > ' . $device, $output, $status);
     return $arduino;
 
   }
