@@ -6,3 +6,18 @@
         Adding custom, context-dependent, properties.
 */
 
+html {
+  -webkit-font-smoothing: antialiased;
+/*    overflow-y: scroll;*/
+}
+
+/* bicubic resizing for non-native sized IMG:
+code.flickr.com/blog/2008/11/12/on-ui-quality-the-little-things-client-side-image-resizing/ */
+.ie7 img {
+  -ms-interpolation-mode: bicubic;
+}
+
+#validate{
+  float: right;
+}
+

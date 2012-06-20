@@ -1,0 +1,23 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  /*<your title>: <your name>*/
+  /*Site:*/
+  /*Twitter:*/
+  /*Location
+  
+  Integrator & PHP Guru: Kane Þórnwyrd
+  Site: jean.cedric.t.free.fr
+  Twitter: kane_thornwyrd
+  Location: Paris, France
+  
+  Brain and shell black magic: Lululombard
+  Site: ?
+  Twitter: lululombard
+  Location: 
+:*/
+
+/* THANKS */
+  Ourselves !
